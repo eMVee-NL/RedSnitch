@@ -1,8 +1,5 @@
 # RedSnitch
-
-
-
-
+RedSnitch creates specially crafted PDFs that capture NTLM hashes, providing red teamers with an efficient and covert way to gather credentials during engagements.
 
 ![afbeelding](https://github.com/user-attachments/assets/dd867e96-d94e-4d19-b72b-0cb1727774dd)
 
