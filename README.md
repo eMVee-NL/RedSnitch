@@ -6,6 +6,26 @@
 
 ![afbeelding](https://github.com/user-attachments/assets/dd867e96-d94e-4d19-b72b-0cb1727774dd)
 
+### Getting Started
+
+To get started with the RedSnith project, follow these steps:
+
+1. Clone the repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/eMVee-NL/RedSnitch.git
+   cd RedSnitch
+   ```
+
+2. Create a virtual environment for Python and then activate the virtual environment:
+   ```bash
+   python3 -m venv redsnitch
+   source redsnitch/bin/activate
+   ```
+
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ### Disclaimer
 
