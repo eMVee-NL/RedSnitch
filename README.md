@@ -27,6 +27,14 @@ To get started with the RedSnith project, follow these steps:
    pip install -r requirements.txt
    ```
 
+4. Eun EedSnitch:
+   ```bash
+   python3 RedSnitch.py 
+   ```
+
+![afbeelding](https://github.com/user-attachments/assets/10f5a2e4-5bbc-45fc-bcdd-b23601332830)
+
+
 ### Disclaimer
 
 The use of this application is intended solely for ethical hacking purposes, and it should only be utilized with explicit authorization from the system owner or within your own controlled lab environment. By using this application, you acknowledge and agree to the following:
