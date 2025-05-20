@@ -24,7 +24,7 @@ To get started with the RedSnith project, follow these steps:
    pip install -r requirements.txt
    ```
 
-4. Eun EedSnitch:
+4. Run RedSnitch:
    ```bash
    python3 RedSnitch.py 
    ```
